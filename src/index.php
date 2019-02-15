@@ -1,7 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: carierchoice
- * Date: 15.02.19
- * Time: 12:20
- */
+include('header.php');
+echo 'test';
+include('footer.php');
+
